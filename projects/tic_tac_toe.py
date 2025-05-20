@@ -1,5 +1,3 @@
-
-
 def display_game(table):
     print(" ---+---+---")
     print(f" {table[0][0]} | {table[0][1]} | {table[0][2]}   /   1 | 2 | 3")
